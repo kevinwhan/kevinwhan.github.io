@@ -15,28 +15,18 @@ Education
   * Minor in computer science
 * Ph.D in Statistics, Stanford University, 2023 (expected)
   * Advisors: Guido Imbens, Johan Ugander
-  * Ph.D minor in computer science and management science and engineering.
+  * Ph.D minor in Computer Science and Management Science and Engineering.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Software Engineer Intern, Machine Learning (PhD)
+  * Meta (formerly known as Facebook)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2021: Research Intern
+  * Facebook Core Data Science
+
+* Summer 2018: Software Engineer Intern
+  * Microsoft Asia-Pacific Research & Development Group
   
 Professional Service
 ======
