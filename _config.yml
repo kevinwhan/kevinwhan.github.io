@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kevin Han / Kevin Han's Homepage"
+title                    : "Kevin Han's Homepage"
 title_separator          : "-"
 name                     : &name "Kevin Han"
 description              : &description "Ph.D in statistics at Stanford doing research in causal inference."
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/kevinhan95/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
