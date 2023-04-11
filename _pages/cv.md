@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Honors Mathematics and Honors Statistics, University of Michigan -- Ann Arbor, 2018
+  * Minor in computer science
+* Ph.D in Statistics, Stanford University, 2023 (expected)
+  * Advisors: Guido Imbens, Johan Ugander
+  * Ph.D minor in computer science and management science and engineering.
 
 Work experience
 ======
@@ -35,25 +37,9 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
+Professional Service
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Reviewer for the 2023 American Causal Inference Conference (ACIC 2023)
+* Reviewer for the 2023 ACM SIGKDD International Conference on Knowledge Discovery and Data
+Mining (KDD 2023)

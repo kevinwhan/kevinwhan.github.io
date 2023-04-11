@@ -14,10 +14,10 @@ I am currently a fifth-year PhD student in Statistics at Stanford University. I 
 
 Research interests
 ------
-- Causal inference with interference.
-- Online experimentation.
-- Causal inference and machine learning.
-- Natural language processing.
+- Causal inference with interference
+- Online experimentation
+- Causal inference and machine learning
+- Natural language processing
 
 Contact
 ------
