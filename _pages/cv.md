@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,9 +15,9 @@ Education
   * Minor in computer science
 * Ph.D in Statistics, Stanford University, 2023 (expected)
   * Advisors: Guido Imbens, Johan Ugander
-  * Ph.D minor in Computer Science and Management Science and Engineering.
+  * Ph.D minor in Computer Science and Management Science and Engineering
 
-Work experience
+Work Experience
 ======
 * Summer 2022: Software Engineer Intern, Machine Learning (PhD)
   * Meta (formerly known as Facebook)
