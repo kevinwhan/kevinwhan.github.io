@@ -1,7 +1,7 @@
 ---
 title: "Detecting Interference in A/B Testing with Increasing Allocation"
-collection: publications
-permalink: /publication/2022-11-07-Detecting-Interference-in-A/B-Testing-with-Increasing-Allocation
+collection: research
+permalink: /research/2022-11-07-Detecting-Interference-in-A/B-Testing-with-Increasing-Allocation
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2022-11-07
 venue: 'arXiv'
