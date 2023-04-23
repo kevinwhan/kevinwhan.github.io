@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2022-02-25-Ensemble-Method-for-Estimating-Individualized-Treatment-Effects
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-02-25
-venue: 'arXiv'
+venue: '	arXiv:2202.12445'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Han, K. W., & Wu, H. (2022). Ensemble Method for Estimating Individualized Treatment Effects. arXiv preprint arXiv:2202.12445.'
+#citation: 'Han, K. W., & Wu, H. (2022). Ensemble Method for Estimating Individualized Treatment Effects. arXiv preprint arXiv:2202.12445.'
 ---
 In contrast to several recent papers proposing methods to select one of these competing models, we propose an algorithm for aggregating the estimates from a diverse library of models. We compare ensembling to model selection on 43 benchmark datasets, and find that ensembling wins almost every time. Theoretically, we prove that our ensemble model is (asymptotically) at least as accurate as the best model under consideration, even if the number of candidate models is allowed to grow with the sample size.
 
