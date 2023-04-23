@@ -1,5 +1,5 @@
 ---
-title: "STATS 200"
+title: "STATS 200: Introduction to Statistical Inference"
 collection: teaching
 type: "Undergraduate/master course"
 permalink: /teaching/stats200
