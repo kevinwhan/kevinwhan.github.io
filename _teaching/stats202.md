@@ -11,4 +11,6 @@ excerpt: ''
 
 Summer 2019
 
+### Course description
+
 Data mining is used to discover patterns and relationships in data. Emphasis is on large complex data sets such as those in very large databases or through web mining. Topics: decision trees, association rules, clustering, case based methods, and data visualization.

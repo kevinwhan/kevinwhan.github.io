@@ -11,4 +11,6 @@ excerpt: ''
 
 Spring 2019, Spring 2020
 
+### Course description
+
 Techniques for organizing data, computing, and interpreting measures of central tendency, variability, and association. Estimation, confidence intervals, tests of hypotheses, t-tests, correlation, and regression. Possible topics: analysis of variance and chi-square tests, computer statistical packages.

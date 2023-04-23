@@ -11,4 +11,6 @@ excerpt: ''
 
 Autumn 2018, Winter 2021, Winter 2022, Winter 2023
 
+### Course description
+
 Modern statistical concepts and procedures derived from a mathematical framework. Statistical inference, decision theory; point and interval estimation, tests of hypotheses; Neyman-Pearson theory. Bayesian analysis; maximum likelihood, large sample theory.
