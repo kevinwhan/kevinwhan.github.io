@@ -1,5 +1,5 @@
 ---
-title: "Statistics 305a: Applied Statistics (Linear Models and More)"
+title: "Statistics 305A: Applied Statistics (Linear Models and More)"
 collection: teaching
 type: "PhD course"
 permalink: /teaching/stats305a
