@@ -1,5 +1,5 @@
 ---
-title: "STATS 370: Bayesian Statistics"
+title: "Statistics 305a: Applied Statistics (Linear Models and More)"
 collection: teaching
 type: "PhD course"
 permalink: /teaching/stats305a
