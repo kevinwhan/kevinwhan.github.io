@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "STATS 200"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate/master course"
+permalink: /teaching/stats200
+venue: "Stanford University, Department of Statistics"
+#date: 2014-01-01
+#location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Modern statistical concepts and procedures derived from a mathematical framework. Statistical inference, decision theory; point and interval estimation, tests of hypotheses; Neyman-Pearson theory. Bayesian analysis; maximum likelihood, large sample theory.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Autumn 2018, Winter 2021, Winter 2022, Winter 2023
