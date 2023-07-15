@@ -1,10 +1,10 @@
 ---
 title: "Ensemble Method for Estimating Individualized Treatment Effects"
 collection: publications
-permalink: /publication/2022-02-25-Ensemble-Method-for-Estimating-Individualized-Treatment-Effects
+permalink: /publication/2023-08-07-Ensemble-Method-for-Estimating-Individualized-Treatment-Effects
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022-02-25
-venue: '	arXiv:2202.12445'
+date: 2023-08-07
+venue: 'KDD Workshop on Causal Inference and Machine Learning in Practice, 2023'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 #citation: 'Han, K. W., & Wu, H. (2022). Ensemble Method for Estimating Individualized Treatment Effects. arXiv preprint arXiv:2202.12445.'
 ---
