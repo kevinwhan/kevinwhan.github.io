@@ -9,7 +9,7 @@ venue: 'arXiv:2302.04997'
 #citation: 'Han, K., & Ugander, J. (2023). Model-Based Regression Adjustment with Model-Free Covariates for Network Interference. arXiv preprint arXiv:2302.04997.'
 ---
 
-In this work, we introduce a sequential procedure to generate and select graph- and treatment-based covariates for GATE estimation under regression adjustment. To tackle inferential complications caused by our feature generation and selection process, we introduce a way to construct confidence intervals based on a block bootstrap. Under revision at Journal of Causal Inference.
+In this work, we introduce a sequential procedure to generate and select graph- and treatment-based covariates for GATE estimation under regression adjustment. To tackle inferential complications caused by our feature generation and selection process, we introduce a way to construct confidence intervals based on a block bootstrap. Accepted by Journal of Causal Inference.
 
 [Download paper here](http://kevinwhan.github.io/files/paper-regadj.pdf)
 
