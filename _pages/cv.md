@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Honors Mathematics and Honors Statistics, University of Michigan -- Ann Arbor, 2018
   * Minor in computer science
-* Ph.D in Statistics, Stanford University, 2023 (expected)
+* Ph.D in Statistics, Stanford University, 2023
   * Advisors: Guido Imbens, Johan Ugander
   * Ph.D minor in Computer Science and Management Science and Engineering
 
