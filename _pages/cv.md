@@ -19,6 +19,9 @@ Education
 
 Work Experience
 ======
+* Summer 2023: Software Engineer Intern
+  * Google
+
 * Summer 2022: Software Engineer Intern, Machine Learning (PhD)
   * Meta (formerly known as Facebook)
 
