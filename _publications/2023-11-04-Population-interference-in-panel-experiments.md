@@ -3,7 +3,7 @@ title: "Population Interference in Panel Experiments"
 collection: publications
 permalink: /publication/2023-11-04-Population-interference-in-panel-experiments
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-11-04
+date: 2024-01-01
 venue: 'Journal of Econometrics'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 #citation: 'Han, K. W., Bojinov, I., & Basse, G. (2021). Population interference in panel experiments. arXiv preprint arXiv:2103.00553.'
