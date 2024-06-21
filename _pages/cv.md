@@ -20,9 +20,9 @@ Education
 Work Experience
 ======
 * Summer 2023: Software Engineer Intern
-  * Google Core
+  * Google
 
-* Summer 2022: Software Engineer Intern, Machine Learning (PhD)
+* Summer 2022: Software Engineer Intern
   * Meta
 
 * Summer 2021: Research Intern
