@@ -23,7 +23,7 @@ Work Experience
   * Google Core
 
 * Summer 2022: Software Engineer Intern, Machine Learning (PhD)
-  * Meta (formerly Facebook)
+  * Meta
 
 * Summer 2021: Research Intern
   * Facebook Core Data Science
@@ -33,6 +33,7 @@ Work Experience
   
 Professional Service
 ======
+* Reviewer for the 2024 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2024)
 * Reviewer for the 2023 American Causal Inference Conference (ACIC 2023)
 * Reviewer for the 2023 ACM SIGKDD International Conference on Knowledge Discovery and Data
 Mining (KDD 2023)
