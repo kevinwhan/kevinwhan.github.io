@@ -19,6 +19,8 @@ Education
 
 Work Experience
 ======
+* 2023.12 - now: Research Scientist
+  * Modern Recommendation System AI, Meta
 * Summer 2023: Software Engineer Intern
   * Google
 
