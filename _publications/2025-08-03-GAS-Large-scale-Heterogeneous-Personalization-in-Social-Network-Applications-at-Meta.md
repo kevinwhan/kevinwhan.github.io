@@ -10,3 +10,7 @@ venue: 'ACM SIGKDD International Conference on Knowledge Discovery and Data Mini
 ---
 
 In this paper, we introduce the Generalized Auto Segmentation (GAS), an end-to-end, cross-domain personalization platform developed at Meta. GAS is designed to optimize personalization policies for online experiments, operating independently of any specific server infrastructure.
+
+[Download paper here](https://dl.acm.org/doi/10.1145/3711896.3737225)
+
+Recommended citation: Yihan Wu, Mingze Gao, Haoran Liu, Weiwei Li, Kevin Han, Junfeng Pan, Xinyi Zhang, Jiawei Wen, and Gedi Zhou. 2025. GAS: Large-Scale Heterogeneous Personalization in Social Network Applications at Meta. In Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2 (KDD '25). Association for Computing Machinery, New York, NY, USA, 5049–5058. https://doi.org/10.1145/3711896.3737225
