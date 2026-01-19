@@ -10,15 +10,18 @@ redirect_from:
 
 About me
 ------
-Hi! I am currently a research scientist at Meta working on LLM for ranking systems. I graduated from Stanford with a PhD in statistics. During my time at Stanford, I was fortunate to be advised by Professor [Guido Imbens](https://gsb-faculty.stanford.edu/guido-w-imbens/) and Professor [Johan Ugander](http://web.stanford.edu/~jugander/). My research interests lie in causal inference, especially causal inference with interference and online experimentation (A/B testing). Before coming to Stanford, I completed my undergraduate studies at University of Michigan in 2018 where I obtained B.S. degrees in (Honors) mathematics and (Honors) statistics, with a minor in computer science.
+Hi! I am a Research Scientist at Meta working on LLMs for recommendation systems. I hold a PhD in Statistics from Cornell University, where I was advised by Professor [Guido Imbens](https://gsb-faculty.stanford.edu/guido-w-imbens/) and Professor [Johan Ugander](http://web.stanford.edu/~jugander/).
 
-My [dissertation](https://searchworks.stanford.edu/view/14783556) addresses testing, estimation and inference problems for causal inference with interference. Individual chapters can be found in the publications page.
+My doctoral research focused on causal inference, specifically causal inference with interference and online experimentation (A/B testing). Recently, I have expanded my interests to include LLM agents and reasoning models. Prior to Stanford, I completed my undergraduate studies at the University of Michigan in 2018, obtaining B.S. degrees with Honors in Mathematics and Statistics, and a minor in Computer Science.
+
+My [dissertation](https://searchworks.stanford.edu/view/14783556) addresses testing, estimation, and inference problems for causal inference with interference. Individual chapters can be found on the [Publications] page.
 
 Research interests
 ------
 - Causal inference
 - Online experimentation
 - LLM agents
+- Reasoning models
 - Machine learning for biology
 
 Contact
