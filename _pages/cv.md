@@ -20,13 +20,9 @@ Education
 Work Experience
 ======
 * 2023.12 - now: Research Scientist, Meta Recommendation Systems AI
-
 * Summer 2023: Software Engineer Intern, Google
-
 * Summer 2022: Software Engineer Intern, Meta
-
 * Summer 2021: Research Intern, Facebook Core Data Science
-
 * Summer 2018: Software Engineer Intern, Microsoft
   
 Professional Service
